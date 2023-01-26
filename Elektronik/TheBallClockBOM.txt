@@ -1,0 +1,62 @@
+Stückliste exportiert am 09.01.2023 12:06:00
+
+Part Value              Device                 Package                    Description                          MF MPN      OC_FARNELL OC_NEWARK
+BAT  CR2032             BATTERIEHALTER_KZH20   KZH20-SMD                  KZH 20                                                               
+C1   22pF               C-EUC0805K             C0805K                     CAPACITOR, European symbol                                           
+C2   22pF               C-EUC0805K             C0805K                     CAPACITOR, European symbol                                           
+C3   100nF              C-EUC0805              C0805                      CAPACITOR, European symbol                                           
+C4   100nF              C-EUC0805              C0805                      CAPACITOR, European symbol                                           
+C5   100nF              C-EUC0805              C0805                      CAPACITOR, European symbol                                           
+C6   100µF/25V          CPOL-EUF               PANASONIC_F                POLARIZED CAPACITOR, European symbol                                 
+C7   100nF              C-EUC0805              C0805                      CAPACITOR, European symbol                                           
+C8   100nF              C-EUC0805              C0805                      CAPACITOR, European symbol                                           
+C10  1000µF/6,3V        CPOL-EUG               PANASONIC_G                POLARIZED CAPACITOR, European symbol                                 
+C11  100nF              C-EUC0805              C0805                      CAPACITOR, European symbol                                           
+D1   1N4007SMD          DIODE-SMB              SMB                        DIODE                                                                
+D2   SK34A              SK34A                  DO214AC                                                                                         
+H5   MOUNT-PAD-ROUND3.0 MOUNT-PAD-ROUND3.0     3,0-PAD                    MOUNTING PAD, round                                                  
+H6   MOUNT-PAD-ROUND3.0 MOUNT-PAD-ROUND3.0     3,0-PAD                    MOUNTING PAD, round                                                  
+H7   MOUNT-PAD-ROUND3.0 MOUNT-PAD-ROUND3.0     3,0-PAD                    MOUNTING PAD, round                                                  
+H8   MOUNT-PAD-ROUND3.0 MOUNT-PAD-ROUND3.0     3,0-PAD                    MOUNTING PAD, round                                                  
+IC1  ATMEGA328P-AU      ATMEGA328P-AU          TQFP32-08                  MICROCONTROLLER                                                      
+IC2  ULN2803D           ULN2803D               SO18W                      ULN2803 Darlington Arrays                                            
+IC3  DS1307             DS1307Z                SO08                       DS1307                                                               
+IC4  LM2576             LM2576                 TO263-5                    LM2576                                                               
+IC5  74HC595D           74HC595D               SO16                       8-bit SHIFT REGISTER, output latch                                   
+IC6  ULN2803D           ULN2803D               SO18W                      ULN2803 Darlington Arrays                                            
+J1   Hall-Sensor1       22-27-2031-03          6410-03                    CONNECTOR                                                            
+J2   Hall-Sensor2       22-27-2031-03          6410-03                    CONNECTOR                                                            
+J3   Hall-Sensor3       22-27-2031-03          6410-03                    CONNECTOR                                                            
+J5   LUM1613-2.5        LUM1613-2.5            LUM_DS_1613_15             Lumberg 1613                                                         
+JP1                     PINHD-1X3              1X03                       PIN HEADER                                                           
+JP2  Serial-Interface   PINHD-1X6              1X06                       PIN HEADER                                                           
+L1   100µH              L-EUPISM               PISM                                                                                            
+LED1 rot                LEDCHIPLED_0805        CHIPLED_0805               LED                                                                  
+LED3 rot                LEDCHIPLED_0805        CHIPLED_0805               LED                                                                  
+LED4 rot                LEDCHIPLED_0805        CHIPLED_0805               LED                                                                  
+LED6 grün               LEDCHIPLED_0805        CHIPLED_0805               LED                                                                  
+Q1   32,768 kHz         CRYSTALTC38H           TC38H                      CRYSTAL                                          unknown    unknown  
+Q4   16 MHz             CRYSTALHC49UP          HC49UP                     CRYSTAL                                          unknown    unknown  
+R1   4K7                R-EU_R0805             R0805                      RESISTOR, European symbol                                            
+R2   10K                R-EU_M0805             M0805                      RESISTOR, European symbol                                            
+R3   4K7                R-EU_R0805             R0805                      RESISTOR, European symbol                                            
+R4   10K                R-EU_M0805             M0805                      RESISTOR, European symbol                                            
+R5   220R               R-EU_R0805             R0805                      RESISTOR, European symbol                                            
+R6   10K                R-EU_M0805             M0805                      RESISTOR, European symbol                                            
+R7   330R               R-EU_R0805             R0805                      RESISTOR, European symbol                                            
+R8   1K                 R-EU_R0805             R0805                      RESISTOR, European symbol                                            
+R9   10K                R-EU_R0805             R0805                      RESISTOR, European symbol                                            
+R10  220R               R-EU_R0805             R0805                      RESISTOR, European symbol                                            
+R11  10K                R-EU_M0805             M0805                      RESISTOR, European symbol                                            
+R12  10K                R-EU_M0805             M0805                      RESISTOR, European symbol                                            
+R13  10K                R-EU_M0805             M0805                      RESISTOR, European symbol                                            
+R14  10K                R-EU_M0805             M0805                      RESISTOR, European symbol                                            
+R15  10K                R-EU_M0805             M0805                      RESISTOR, European symbol                                            
+S1   Hours              10-XX                  B3F-10XX                   OMRON SWITCH                            B3F-1000 176432     36M3542  
+S2   Minutes            10-XX                  B3F-10XX                   OMRON SWITCH                            B3F-1000 176432     36M3542  
+S3   Reset              10-XX                  B3F-10XX                   OMRON SWITCH                            B3F-1000 176432     36M3542  
+S4   Set                10-XX                  B3F-10XX                   OMRON SWITCH                            B3F-1000 176432     36M3542  
+S5   Reserved           10-XX                  B3F-10XX                   OMRON SWITCH                            B3F-1000 176432     36M3542  
+X1   JST-XH-05          JST-XH-05-PIN-LONG-PAD JST-XH-05-PACKAGE-LONG-PAD JST XH Connector 2 Pin                                               
+X2   JST-XH-05          JST-XH-05-PIN-LONG-PAD JST-XH-05-PACKAGE-LONG-PAD JST XH Connector 2 Pin                                               
+X3   JST-XH-05          JST-XH-05-PIN-LONG-PAD JST-XH-05-PACKAGE-LONG-PAD JST XH Connector 2 Pin                                               
